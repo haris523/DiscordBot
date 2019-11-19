@@ -5,4 +5,5 @@ Discord bot is a small project which I worked on when you had to start subscribi
 Change the .env_sample file to .env and put your api keys inside
 Download ffmpeg-4.1.3 folder and put it in base folder
 Run npm install to get all the dependencies
+Add botconfig.json as js object with your discord bot token and a prefix
 The bot should now work.
